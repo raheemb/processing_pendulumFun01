@@ -46,7 +46,7 @@ void draw() {
   for (Pendulum p : pendulumsInv) p.update();
   
   //// Save the frames as png files
-  //saveFrame("frames/p02/#######.png");
+  //saveFrame("frames/#######.png");
   //frame++;
   //if (frame >= 3*1800) exit();
 }  
